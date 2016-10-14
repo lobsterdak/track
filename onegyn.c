@@ -7,6 +7,7 @@
 #include <stdlib.h>
 #include <ctype.h>
 #include <errno.h>
+
 int EMPTY_FILE = 0;
 
 char* input_poem (int *num_of_strings, const char *name_of_file){
